@@ -12,8 +12,8 @@
     }
   ],
   "obj": {
-    "number": 1.2345,
+    "number": 1.2345e-6,
     "enabled": true
   },
-  "message": "Strings have to be in doublequotes."
+  "message": "Hello!"
 }
