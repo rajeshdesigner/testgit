@@ -11,11 +11,19 @@
 {
    "company":"Benz",
    "price":230000,
-   "color":"White"		
+   "colors": [
+   {
+    "color" : "Red"
+   }	
+  ]   		
  },
 {
    "company":"Porsche",
    "price":470000,
-   "color":"Black"		
+   "colors": [
+   {
+    "color" : "Red"
+   }	
+  ]   		
  }
 ]
