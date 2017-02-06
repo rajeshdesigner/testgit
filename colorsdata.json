@@ -5,8 +5,8 @@
    "colors": [
    {
     "color" : "Red"
-   }	
-  ]          
+   }
+  ]
  },
 {
    "company":"Benz",
@@ -14,8 +14,8 @@
    "colors": [
    {
     "color" : "Red"
-   }	
-  ]   		
+   }
+  ]
  },
 {
    "company":"Porsche",
@@ -23,7 +23,7 @@
    "colors": [
    {
     "color" : "Red"
-   }	
-  ]   		
+   }
+  ]
  }
 ]
