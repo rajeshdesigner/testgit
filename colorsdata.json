@@ -2,7 +2,11 @@
  {
    "company":"BMW",
    "price":100000,
-   "color":"Red"		
+   "colors": [
+   {
+    "color" : "Red"
+   }	
+  ]          
  },
 {
    "company":"Benz",
