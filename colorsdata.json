@@ -5,13 +5,13 @@
    "color":"Red"		
  },
 {
-   "company":"BMW",
-   "price":100000,
-   "color":"Red"		
+   "company":"Benz",
+   "price":230000,
+   "color":"White"		
  },
 {
-   "company":"BMW",
-   "price":100000,
-   "color":"Red"		
+   "company":"Porsche",
+   "price":470000,
+   "color":"Black"		
  }
 ]
