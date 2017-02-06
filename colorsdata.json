@@ -1,19 +1,17 @@
-{
-  "items": [
-    {
-      "key": "First",
-      "value": 100
-    },{
-      "key": "Second",
-      "value": 200
-    },{
-      "key": "Last",
-      "value": "Mixed"
-    }
-  ],
-  "obj": {
-    "number": 1.2345e-6,
-    "enabled": true
-  },
-  "message": "Hello!"
-}
+[
+		{
+			"company" : "BMW",
+			"price" : 100000,
+			"color" : "Red"		
+		},
+		{
+			"company" : "Benz",
+			"price" : 120000,
+			"color" : "Gray"		
+		},
+		{
+			"company" : "Porsche",
+			"price" : 430000,
+			"color" : "Black"		
+		},	
+	]
