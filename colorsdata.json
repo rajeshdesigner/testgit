@@ -21,7 +21,7 @@
    "company":"Porsche",
    "price":470000,
    "colors": [
-   {
+    {
     "color" : "Red"
    }
   ]
