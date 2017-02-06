@@ -9,7 +9,8 @@
     "doors" : 4,
     "power windows" : "no",
     "stereo" : "Bose"
-   }  
+   },
+   "image" : "car-1"
  },
 {
   "id" : 2, 
@@ -21,7 +22,8 @@
     "doors" : 2,
     "power windows" : "yes",
     "stereo" : "skull candy"
-   }  
+   },
+  "image" : "car-2"
  },
 {
   "id" : 3, 
@@ -33,6 +35,7 @@
     "doors" : 4,
     "power windows" : "yes",
     "stereo" : "philps"
-   }  
+   },
+  "image" : "car-3"
  }
 ]
