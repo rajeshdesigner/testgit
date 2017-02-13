@@ -1,41 +1,17 @@
 [
  {
   "id" : 1, 
-  "company":"BMW",
-   //"price":100000,
-   //"address" : "17639 Andover court ",
-   //"desc" : "The best you believe",
-   /*"details": {
-    "doors" : 4,
-    "power windows" : "no",
-    "stereo" : "Bose"
-   },*/
+  "company":"BMW",   
    "color" : "blue"
  },
 {
   "id" : 2, 
-  "company":"Benz",
-   /*"price":230000,
-   "address" : "83921 East Avenue ",
-   "desc" : "you will love the car",
-   "details": {
-    "doors" : 2,
-    "power windows" : "yes",
-    "stereo" : "skull candy"
-   },*/
+  "company":"Benz",   
   "color" : "black"
  },
 {
   "id" : 3, 
-  "company":"Porsche",
-   /*"price":470000,
-   "address" : "56234 Suthern Hills ",
-   "desc" : "dream comes true",
-   "details": {
-    "doors" : 4,
-    "power windows" : "yes",
-    "stereo" : "philps"
-   },*/
+  "company":"Porsche",  
   "color" : "yellow"
  }
 ]
