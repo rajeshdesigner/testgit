@@ -3,15 +3,5 @@
   "id" : 1, 
   "company":"BMW",   
    "color" : "blue"
- },
-{
-  "id" : 2, 
-  "company":"Benz",   
-  "color" : "black"
- },
-{
-  "id" : 3, 
-  "company":"Porsche",  
-  "color" : "yellow"
  }
 ]
